@@ -1,0 +1,30 @@
+#css style
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#game-container {
+    position: relative;
+    width: 800px;
+    height: 400px;
+    margin: 50px auto;
+    background-color: #87CEEB; /* Sky blue for the background */
+}
+
+.stick-figure {
+    position: absolute;
+    background-color: #8B4513; /* Saddle brown for the stick figure */
+}
+
+#archer {
+    width: 20px;
+    height: 80px;
+}
+
+.walker {
+    width: 15px;
+    height: 60px;
+    background-color: #228B22; /* Forest green for the walker */
+}
